@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: KULDEEP
+Template URL: https://github.com/Kuldeep9200/kuldeep_portfolio.git
+Author: KULDEEP
+
